@@ -5,3 +5,8 @@ The goal of this porject is to take  compare and contrast the Apollo guidance co
 
 * Rebuild Cornell university's Py-AGC  project
 https://courses.ece.cornell.edu/ece5990/ECE5725_Spring2023_Projects/2%20Friday%20May%2012/11%20Apollo%20Guidance%20Computer/W_csg83_nkr33/W_csg83_nkr33/index.html
+
+* Test speed and memort requirements versu three standard python GPS libraries 
+* pynmea2,https://github.com/Knio/pynmea2 
+* pynmeagps -- pip install pynmeagps
+* gps3 -- pip install gps3
